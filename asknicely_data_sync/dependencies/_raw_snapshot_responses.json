@@ -1,0 +1,338 @@
+[
+  {
+    "name": "_sync_unix_timestamp",
+    "mode": "REQUIRED",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "response_id",
+    "mode": "REQUIRED",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "person_id",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "name",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "email",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "answer",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "answerlabel",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "data",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "comment",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "note",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "status",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "dontcontact",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "sent",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "opened",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "responded",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "lastemailed",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "created",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "segment",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "question_type",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "published",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "publishedname",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "publishedavatar",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "deliverymethod",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "survey_template",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "theme",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "life_cycle",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "product_type_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "city_name_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "region_name_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "country_name_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "timezone_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "orderid_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "currency_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "spend_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "product_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "province_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "city_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "country_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "orders_made_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "lifetime_spend_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "customer_tags_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "shipping_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "topic_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "workflow_follow_up_blank_comm_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "kustomer_conversationid_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "workflow_kustomer_c",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "dashboard",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "email_token",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  }
+]

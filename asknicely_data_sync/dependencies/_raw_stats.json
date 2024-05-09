@@ -1,0 +1,135 @@
+[
+    {
+      "name": "_sync_unix_timestamp",
+      "mode": "REQUIRED",
+      "type": "INTEGER",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "year",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "month",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "day",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "weekday",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "sent",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "delivered",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "opened",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "responded",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "promoters",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "passives",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "detractors",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "nps",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "comments",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "comment_length",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "comment_responded_percent",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "surveys_responded_percent",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "surveys_delivered_responded_percent",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    },
+    {
+      "name": "surveys_opened_responded_percent",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": null,
+      "fields": []
+    }
+  ]
